@@ -8,23 +8,23 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/do9i9xfku/image/upload/v1554310773/Passport.png" alt="Oluwatomisin Lalude">
-                        <h6>Oluwatomisin Lalude</h6>
-                        <p>Front-end Engineer</p>
+                        <img src="https://res.cloudinary.com/daveaaa/image/upload/v1554310399/David.jpg" alt="Mark Essien">
+                        <h6>David Ogaga</h6>
+                        <p>Front-end Developer</p>
                         <ul class="list">
-                           <li><a href="https://twitter.com/tomisinlalude" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
-                           <li><a href="https://github.com/OluwatomisinLalude" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
-                           <li><a href="https://medium.com/@oluwatomisin1605" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
+                           <li><a href="#" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
+                           <li><a href="https://github.com/DaveAAA" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
+                           <li><a href="https://medium.com/@DaveAAA" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
                         </ul>
                      </div>
                   </div>
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>I have a background in Electronic and Electrical Engineering. I am currently an intern at hotels.ng, honing my Front-End skills.</p>
+                        <p>A passionate ,enthusiastic, developer whose ready to solve real-life problems. If you need to get a project done, you can reach me on those social media platform below. <b>Cheers :)</b></p>
                         <br />
                         <h6>Skills</h6>
-                        <p>JavaScript | React | Node.js</p>
+                        <p>Java | Kotlin | Ui/UX Prototyping</p>
                      </div>
                   </div>
                </div>
