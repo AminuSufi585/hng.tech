@@ -11,23 +11,23 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/ashawinta/image/upload/v1554311522/IMG_45.jpg" alt="Mark Essien">
-                        <h6>Onyegbu Ifedili</h6>
-                        <p>Full-Stack developer</p>
+                        <img src="https://res.cloudinary.com/zendus/image/upload/v1554327552/images/1e65368f-7dd6-4d14-ad18-64429cc5dd7f.jpg" alt="Mark Essien">
+                        <h6>Uzendu johnmicheal</h6>
+                        <p>Front-end Engineer</p>
                         <ul class="list">
-                           <li><a href="https://twitter.com/dili_ray" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
-                           <li><a href="https://github.com/saucecodee" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
-                           <li><a href="https://medium.com/@saucecode" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
+                           <li><a href="https://twitter.com/zendus69" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
+                           <li><a href="https://github.com/zendus" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
+                           <li><a href="https://medium.com/@zendus" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
                         </ul>
                      </div>
                   </div>
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>Hi, I'm Onyegbu Ifedili. A full stack developer with over 3 years in web/app development. I use web tools to make cross-platform mobile apps with Ionic framework. </p>
+                        <p>Am a front end developer with basic knowledge of javascript, html and css. i also have interest in machine learning</p>
                         <br />
                         <h6>Skills</h6>
-                        <p>Angular | Laravel | Iconic</p>
+                        <p>JavaScript | c++ | Python</p>
                      </div>
                   </div>
                </div>
